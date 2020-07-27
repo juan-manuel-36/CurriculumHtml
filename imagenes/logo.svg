@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <circle cx="323.500013" cy="237.499985" fill="#aaffff" id="svg_1" r="209.953918" stroke="#f40404" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <text fill="#000000" font-family="Fantasy" font-size="24" font-style="italic" font-weight="bold" id="svg_3" stroke="#f40404" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(4.55338 0 0 3.77443 -906.731 -583.451)" x="266.159941" xml:space="preserve" y="215.949237">JMS</text>
+  <line fill="none" id="svg_6" stroke="#f40404" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(12.0613 377.5 332)" x1="440.89313" x2="314.106882" y1="252.633461" y2="411.366543"/>
+  <line fill="none" id="svg_10" stroke="#f40404" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="189.500003" x2="301.499999" y1="263.499997" y2="395.499996"/>
+  <line fill="none" id="svg_13" stroke="#f40404" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="261.500001" x2="316.5" y1="120.500001" y2="71.5"/>
+  <line fill="none" id="svg_14" stroke="#f40404" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="313.5" x2="369.500001" y1="71.5" y2="120.499998"/>
+  <circle cx="312.5" cy="288.5" fill="#aaffff" id="svg_15" r="10.630146" stroke="#f40404" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="0" stroke-width="5"/>
+  <circle cx="311.14772" cy="296.78124" fill="#005fbf" id="svg_17" r="16.155495" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="0" stroke-width="5"/>
+ </g>
+</svg>
